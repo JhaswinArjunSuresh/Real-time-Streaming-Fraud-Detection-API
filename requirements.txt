@@ -1,1 +1,8 @@
+fastapi
+uvicorn
+requests
+kafka-python
+scikit-learn
+pandas
+numpy
 
